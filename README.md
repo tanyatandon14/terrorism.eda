@@ -4,4 +4,6 @@ task
 1) Created storyboard out of the data visualization done .
 2) did data cleaning and data analysis on the global terrorism dataset given .
 3) created a video explaination for the storyboard.
+terrorist.ppt contains all the storyboard created
+ and here is the link for the video explaination: https://youtu.be/BoSYX4qrq1M
 
